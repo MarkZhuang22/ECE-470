@@ -43,3 +43,10 @@ For contributions, please open an issue first to discuss what you would like to 
 
 ## Contact
 For any inquiries or issues, please open an issue on the repository or contact the author.
+
+## Show Your Support
+If you've found this repository helpful, consider giving it a star:
+1. Click the "Star" button at the top right of this page.
+2. Share it with others who might find it useful!
+
+Thank you for your support!
