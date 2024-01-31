@@ -1,6 +1,4 @@
-Understood. Here's a succinct README.md template for your ECE470 course labs that you can copy and paste directly into your repository. Be sure to adjust the content based on the specific details of each lab, which I do not have access to.
 
-```markdown
 # ECE470 Robot Modeling and Control
 
 ## Course Description
