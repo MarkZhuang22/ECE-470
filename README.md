@@ -22,7 +22,7 @@ The purpose of this lab is to adapt the results of Lab 3 for implementation in a
 Clone the repository and navigate to each lab's subdirectory for instructions and resources.
 
 ```bash
-git clone https://github.com/MarkZhuang22/ECE-470.git
+git clone https://github.com/MarkZhuang22/ECE-470-Robot-Modeling-and-Control.git
 cd ECE-470
 ```
 
