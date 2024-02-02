@@ -38,9 +38,6 @@ Each lab folder contains:
 ## Contributing
 For contributions, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](LICENSE.md)
-
 ## Contact
 For any inquiries or issues, please open an issue on the repository or contact the author.
 
